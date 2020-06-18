@@ -1,7 +1,7 @@
 [
    {
        "projectUrl": "https://github.com/bnimam/osrs-plugins",
-       "provider": "OpenOSRS",
+       "provider": "bnimam",
        "name": "Alchemical Hydra",
        "description": "Show what to pray against hydra",
        "id": "alchemicalhydra-plugin",
@@ -10,14 +10,14 @@
                "date": "2020-02-21",
                "sha512sum": "38B27CC7854034A25980589595E2502E8E1794501D2B58A70BDC2AE83716140AA0B5DA5163C9AA46674A373B43965D58CD1CBB53FD70340B86D47832E17DE813",
                "version": "0.0.5",
-               "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/alchemicalhydra-0.0.5.jar?raw=true",
+               "url": "https://github.com/bnimam/osrs-plugins/blob/master/release/alchemicalhydra-0.0.5.jar?raw=true",
                "requires": "0.0.1"
            }
        ]
    },
    {
        "projectUrl": "https://github.com/bnimam/osrs-plugins",
-       "provider": "OpenOSRS",
+       "provider": "bnimam",
        "name": "AoE Warnings",
        "description": "Shows the final destination for AoE Attack projectiles",
        "id": "aoewarnings-plugin",
@@ -26,14 +26,14 @@
                "date": "2020-02-18",
                "sha512sum": "DAF05C3E27C28BF80AD632CD20996079F52E41AE27D8D1827489A35147C45A28F47795154E39B0CE199CC8AF0CACD464B54920477C91BE8F28BA1BA9C3983BAC",
                "version": "0.0.3",
-               "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/aoewarnings-0.0.3.jar?raw=true",
+               "url": "https://github.com/bnimam/osrs-plugins/blob/master/release/aoewarnings-0.0.3.jar?raw=true",
                "requires": "0.0.1"
            }
        ]
    },
    {
        "projectUrl": "https://github.com/bnimam/osrs-plugins",
-       "provider": "OpenOSRS",
+       "provider": "bnimam",
        "name": "Blackjack",
        "description": "Allows for one-click blackjacking, both knocking out and pickpocketing",
        "id": "blackjack-plugin",
@@ -42,14 +42,14 @@
                "date": "2020-02-18",
                "sha512sum": "16856EC50877185AF4FCD76A457358E39CA7DEBE516843246A6198DE77582B58BB32EF2C17855E4F999237D6ED648AA7F13CAC606EABFA1B4D8669B6CEFACBAA",
                "version": "0.0.4",
-               "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/blackjack-0.0.4.jar?raw=true",
+               "url": "https://github.com/bnimam/osrs-plugins/blob/master/release/blackjack-0.0.4.jar?raw=true",
                "requires": "0.0.1"
            }
        ]
    },
    {
        "projectUrl": "https://github.com/bnimam/osrs-plugins",
-       "provider": "OpenOSRS",
+       "provider": "bnimam",
        "name": "Cerberus",
        "description": "Show Cerberus' attacks and what to pray against the summoned souls",
        "id": "cerberus-plugin",
@@ -58,14 +58,14 @@
                "date": "2020-02-21",
                "sha512sum": "7576AEBB3BD955A15380769C08BDD16CE2627B5FAFAC808645F97A9B7374852F7EA1044F7848A9CF7B6368724E86100778FFCAD589583A1865214247B03B33ED",
                "version": "0.0.6",
-               "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/cerberus-0.0.6.jar?raw=true",
+               "url": "https://github.com/bnimam/osrs-plugins/blob/master/release/cerberus-0.0.6.jar?raw=true",
                "requires": "0.0.1"
            }
        ]
    },
    {
        "projectUrl": "https://github.com/bnimam/osrs-plugins",
-       "provider": "OpenOSRS",
+       "provider": "bnimam",
        "name": "CoX Helper",
        "description": "All-in-one plugin for Chambers of Xeric",
        "id": "coxhelper-plugin",
@@ -74,14 +74,14 @@
                "date": "2020-02-18",
                "sha512sum": "4CCA5BF554A9A6CB3D085CA28FDDF320C1E8CFFA97E165CCBFEF827FA7798FBBB81FB69E5E32F65546E14F8E908D32CD1458A42635F67B2A0A4CA5345CAFA922",
                "version": "0.0.4",
-               "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/coxhelper-0.0.4.jar?raw=true",
+               "url": "https://github.com/bnimam/osrs-plugins/blob/master/release/coxhelper-0.0.4.jar?raw=true",
                "requires": "0.0.1"
            }
        ]
    },
    {
        "projectUrl": "https://github.com/bnimam/osrs-plugins",
-       "provider": "OpenOSRS",
+       "provider": "bnimam",
        "name": "Drop Party",
        "description": "Marks where a user ran, for drop partys",
        "id": "dropparty-plugin",
@@ -90,14 +90,14 @@
                "date": "2020-02-18",
                "sha512sum": "2873C7B2B35A309D43DBDEAB99F1A7E0A5C33E3CCD4458AE3C4B2213475802D020ABC96BA589F3018AB1835CFD33A6BFF473EE43AE5C26B48B5B648C3FC1C5C6",
                "version": "0.0.3",
-               "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/dropparty-0.0.3.jar?raw=true",
+               "url": "https://github.com/bnimam/osrs-plugins/blob/master/release/dropparty-0.0.3.jar?raw=true",
                "requires": "0.0.1"
            }
        ]
    },
    {
        "projectUrl": "https://github.com/bnimam/osrs-plugins",
-       "provider": "OpenOSRS",
+       "provider": "bnimam",
        "name": "Fight Cave",
        "description": "Displays current and upcoming wave monsters in the Fight Caves",
        "id": "fightcave-plugin",
@@ -106,14 +106,14 @@
                "date": "2020-02-21",
                "sha512sum": "0E162B23B938400784DD89C0AB8D77FE00663F11A9EA9E0F1E08DEE5F45599BF20320DDC9B8B2DD65DE299A4E741F4801320E7C7E935528DF38316066267565B",
                "version": "0.0.4",
-               "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/fightcave-0.0.4.jar?raw=true",
+               "url": "https://github.com/bnimam/osrs-plugins/blob/master/release/fightcave-0.0.4.jar?raw=true",
                "requires": "0.0.1"
            }
        ]
    },
    {
        "projectUrl": "https://github.com/bnimam/osrs-plugins",
-       "provider": "OpenOSRS",
+       "provider": "bnimam",
        "name": "Gauntlet",
        "description": "All-in-one plugin for the Gauntlet",
        "id": "gauntlet-plugin",
@@ -122,14 +122,14 @@
                "date": "2020-02-18",
                "sha512sum": "BDB1162F4F02B8F2DA77786830E60ACE85821C190D31ED8A84DA53B938061469A1A718530625DE98E6AFA58221F5AF98B42A9CFF87E2F6FE9E8531A2975BEA95",
                "version": "0.0.3",
-               "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/gauntlet-0.0.3.jar?raw=true",
+               "url": "https://github.com/bnimam/osrs-plugins/blob/master/release/gauntlet-0.0.3.jar?raw=true",
                "requires": "0.0.1"
            }
        ]
    },
    {
        "projectUrl": "https://github.com/bnimam/osrs-plugins",
-       "provider": "OpenOSRS",
+       "provider": "bnimam",
        "name": "Grotesque Guardians",
        "description": "Show various helpful utitiles during the Grotesque Gaurdians (Gargoyles) fight",
        "id": "grotesqueguardians-plugin",
@@ -138,14 +138,14 @@
                "date": "2020-02-18",
                "sha512sum": "764C9F89DBC8760E450B0EE77C0882DEBE166D0551C73E988C721E83D2B138B5EE65DA29ACF5E8B256A1E22F9D98F0FFBCF3E437CCF9A7070FF9BD4B812AACD5",
                "version": "0.0.3",
-               "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/grotesqueguardians-0.0.3.jar?raw=true",
+               "url": "https://github.com/bnimam/osrs-plugins/blob/master/release/grotesqueguardians-0.0.3.jar?raw=true",
                "requires": "0.0.1"
            }
        ]
    },
    {
        "projectUrl": "https://github.com/bnimam/osrs-plugins",
-       "provider": "OpenOSRS",
+       "provider": "bnimam",
        "name": "Theatre Of Blood",
        "description": "All-in-one plugin for Theatre of Blood",
        "id": "theatreofblood-plugin",
@@ -154,14 +154,14 @@
                "date": "2020-02-18",
                "sha512sum": "EB511F065639A025ED131E21D59A3219F6FEC0D4690C764BCD6E97B9B6673597B1A9A2E59CBA5057D03EEEA5C4F5456DCE8E2FCB7473837AD5678BB7DAA89EF4",
                "version": "0.0.3",
-               "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/theatre-0.0.3.jar?raw=true",
+               "url": "https://github.com/bnimam/osrs-plugins/blob/master/release/theatre-0.0.3.jar?raw=true",
                "requires": "0.0.1"
            }
        ]
    },
    {
        "projectUrl": "https://github.com/bnimam/osrs-plugins",
-       "provider": "OpenOSRS",
+       "provider": "bnimam",
        "name": "Zulrah",
        "description": "Shows tiles on where to stand during the phases and what prayer to use",
        "id": "zulrah-plugin",
@@ -170,7 +170,7 @@
                "date": "2020-02-21",
                "sha512sum": "8B6ECA7F46679E353409C2664C39167DFB58C0755213DED6F59A91145878E4346E8AF3EFFE36FB48F4673377D6E3D4BA9D6E27CC59DC7AF9906D9D7F7AB53C60",
                "version": "0.0.4",
-               "url": "https://github.com/open-osrs/plugin-hosting/blob/master/release/zulrah-0.0.4.jar?raw=true",
+               "url": "https://github.com/bnimam/osrs-plugins/blob/master/release/zulrah-0.0.4.jar?raw=true",
                "requires": "0.0.1"
            }
        ]
